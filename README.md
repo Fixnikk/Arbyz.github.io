@@ -1,6 +1,6 @@
 # Arbyz.github.io
 <!DOCTYPE HTML>
-<html lang="ru"content="width=device-width, initial-scale=1.0">>
+<html lang="ru" content="width=device-width, initial-scale=1.0" >>
   <head>
   <!-- Подключаемые файлы, метатеги, название страницы -->
 
@@ -41,10 +41,6 @@
 
 
 
-</head>
-<body>
-  <!-- Тело сайта, отвечает за вывод на страницу-->
-  
     <h1>Тест на знания криптовалют</h1>
 
     <div class="question">
@@ -123,6 +119,9 @@
         <button class="button">Централизованные финансы</button>
         <button class="button">Финансовые технологии</button>
     </div>
+</head>
+<body>
+  <!-- Тело сайта, отвечает за вывод на страницу-->
   <header>
   <!-- Шапка сайта-->
   </header>
@@ -134,6 +133,42 @@
   </footer>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
