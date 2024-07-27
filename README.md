@@ -51,10 +51,10 @@
 <button onclick="correct()">Сатоши Накамото</button>
 <button onclick="incorrect()">Виталик Бутерин </button>
 
-<p>Вопрос 3: Что такое блокчейн?</p>-->
+<p>Вопрос 3: Что такое блокчейн?</p>
 <button class="correct()">Технология хранения данных</button>
 <button class="incorrect()">Валюта</button>
-<button class=incorrect()">Программное обеспечение</button>
+<button class="incorrect()">Программное обеспечение</button>
 
 <p>Вопрос 4: Какая технология обеспечивает анонимность транзакций в криптовалютах?</p>
 <button onclick="incorrect()">Blockchain</button>
