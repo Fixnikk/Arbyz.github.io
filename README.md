@@ -42,7 +42,7 @@
 <h1>Добро пожаловать на тест по криптовалютам!</h1>
 
 <p>Вопрос 1: Что такое Биткойн?</p>
-<button class="incorrect()">Цифровая монета</button>
+<button onclick="incorrect()">Цифровая монета</button>
 <button class="correct()">Криптовалюта</button>
 <button class="incorrect()">Торговая платформа</button>
 
