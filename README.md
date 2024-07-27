@@ -46,12 +46,33 @@
 <button onclick="correct()">Криптовалюта</button>
 <button onclick="incorrect()">Торговая платформа</button>
 
-<p>Вопрос 2: Какая криптовалюта считается "серебром" к Биткойну?</p>
-<button onclick="incorrect()">Итериум</button>
-<button onclick="correct()">Лайткойн</button>
-<button onclick="incorrect()">Алткоин</button>
+<p>Вопрос 2: кто создал биткоин?</p>
+<button onclick="incorrect()">Илон маск</button>
+<button onclick="correct()">Сатоши Накамото</button>
+<button onclick="incorrect()">Виталик Бутерин </button>
 
-<p>Вопрос 3: Какая технология обеспечивает анонимность транзакций в криптовалютах?</p>
+<p>Вопрос 3: Что такое блокчейн?</p>-->
+<button class="correct()">Технология хранения данных</button>
+<button class="incorrect()">Валюта</button>
+<button class=incorrect()">Программное обеспечение</button>
+
+<p>Вопрос 4: Какая технология обеспечивает анонимность транзакций в криптовалютах?</p>
+<button onclick="incorrect()">Blockchain</button>
+<button onclick="correct()">Криптография</button>
+<button onclick="incorrect()">Майнинг</button>
+
+   <p>Вопрос 5: Что такое альткойн?</p>
+<button class="correct()">Криптовалюта, которая была созданна в качестве обхода ограничений биткоина</button>
+<button class="incorrect()">Монета биткойн</button>
+<button class="incorrect()">Фиатная валюта</button>
+
+<p>Вопрос 6: Что такое ефир? </p>
+<button class="correct()">Криптовалюта сети Ethereum</button>
+<button class="incorrect()">Программное обеспечение для обмена</button>
+<button class="incorrect()">Фиатная валюта</button>
+
+
+<p>Вопрос 7: Каким образом добываеться некоторая криптотвалюта?</p>
 <button onclick="incorrect()">Blockchain</button>
 <button onclick="correct()">Криптография</button>
 <button onclick="incorrect()">Майнинг</button>
@@ -79,8 +100,6 @@ function incorrect() {
   </footer>
 </body>
 </html>
-
-
 
 
 
