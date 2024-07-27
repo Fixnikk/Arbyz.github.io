@@ -42,14 +42,14 @@
 <h1>Добро пожаловать на тест по криптовалютам!</h1>
 
 <p>Вопрос 1: Что такое Биткойн?</p>
-<button onclick="incorrect()">Цифровая монета</button>
-<button onclick="correct()">Криптовалюта</button>
-<button onclick="incorrect()">Торговая платформа</button>
+<button class="incorrect()">Цифровая монета</button>
+<button class="correct()">Криптовалюта</button>
+<button class="incorrect()">Торговая платформа</button>
 
 <p>Вопрос 2: кто создал биткоин?</p>
-<button onclick="incorrect()">Илон маск</button>
-<button onclick="correct()">Сатоши Накамото</button>
-<button onclick="incorrect()">Виталик Бутерин </button>
+<button class="incorrect()">Илон маск</button>
+<button class="correct()">Сатоши Накамото</button>
+<button class="incorrect()">Виталик Бутерин </button>
 
 <p>Вопрос 3: Что такое блокчейн?</p>
 <button class="correct()">Технология хранения данных</button>
@@ -57,9 +57,9 @@
 <button class="incorrect()">Программное обеспечение</button>
 
 <p>Вопрос 4: Какая технология обеспечивает анонимность транзакций в криптовалютах?</p>
-<button onclick="incorrect()">Blockchain</button>
-<button onclick="correct()">Криптография</button>
-<button onclick="incorrect()">Майнинг</button>
+<button class="incorrect()">Blockchain</button>
+<button class="correct()">Криптография</button>
+<button class="incorrect()">Майнинг</button>
 
    <p>Вопрос 5: Что такое альткойн?</p>
 <button class="correct()">Криптовалюта, которая была созданна в качестве обхода ограничений биткоина</button>
@@ -73,9 +73,9 @@
 
 
 <p>Вопрос 7: Каким образом добываеться некоторая криптотвалюта?</p>
-<button onclick="incorrect()">Blockchain</button>
-<button onclick="correct()">Криптография</button>
-<button onclick="incorrect()">Майнинг</button>
+<button class="incorrect()">Blockchain</button>
+<button class="correct()">Криптография</button>
+<button class="incorrect()">Майнинг</button>
 
 <script>
 function correct() {
