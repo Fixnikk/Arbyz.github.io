@@ -66,7 +66,7 @@
 <button class="incorrect()">Монета биткойн</button>
 <button class="incorrect()">Фиатная валюта</button>
 
-<p>Вопрос 6: Что такое ефир? </p>
+<p>Вопрос 6: Что такое ефир?</p>
 <button class="correct()">Криптовалюта сети Ethereum</button>
 <button class="incorrect()">Программное обеспечение для обмена</button>
 <button class="incorrect()">Фиатная валюта</button>
