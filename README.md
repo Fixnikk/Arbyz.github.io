@@ -57,7 +57,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('https://example.com/your-cyberpunk-image.jpg');
+    background-image: url('[https://example.com/your-cyberpunk-image.jpg](https://steamuserimages-a.akamaihd.net/ugc/2128572644671681546/BD73DBA26E7370AF49D30721256C850170BC3C9A/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)');
     background-size: cover;
     filter: blur(8px);
     z-index: 0;
@@ -117,7 +117,7 @@ document.getElementById('neonButton').addEventListener('click', function() {
 
 <h1>Добро пожаловать на тест по криптовалютам!</h1>
 
-< p>Вопрос 1: Что такое Биткойн?< /p>
+< p>Вопрос 1: Что такое Биткойн?</p>
 <button onclick="incorrect()">Цифровая монета</button>
 <button onclick="correct()">Криптовалюта</button>
 <button onclick="incorrect()">Торговая платформа</button>
@@ -127,10 +127,10 @@ document.getElementById('neonButton').addEventListener('click', function() {
 <button onclick="correct()">Сатоши Накамото</button>
 <button onclick="incorrect()">Виталик Бутерин </button>
 
-<p>Вопрос 3: Что такое блокчейн?</p>-->
+<p>Вопрос 3: Что такое блокчейн?</p>
 <button onclick="correct()">Технология хранения данных</button>
 <button onclick="incorrect()">Валюта</button>
-<button onclick=incorrect()">Программное обеспечение</button>
+<button onclick="incorrect()">Программное обеспечение</button>
 
 <p>Вопрос 4: Какая технология обеспечивает анонимность транзакций в криптовалютах?</p>
 <button onclick="incorrect()">Blockchain</button>
