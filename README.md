@@ -8,57 +8,38 @@
   <meta charset="utf-8"/>
   <title>Арбуз</title>
     <style>
- <!DOCTYPE html>
-<html lang="ru" content="width=device-width, initial-scale=1.0" >>
-  <head>
-  <!-- Подключаемые файлы, метатеги, название страницы -->
-
-  <!-- Кодировка страницы-->
-  <meta charset="utf-8"/>
-  <title>Арбуз</title>
-        body {
-            background-color: #000;
-            color: #0f0;
-            font-family: 'Courier New', Courier, monospace;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-        }
-        .decor {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            background: url('[path_to_decor_image.jpg](https://steamuserimages-a.akamaihd.net/ugc/2128572644671681546/BD73DBA26E7370AF49D30721256C850170BC3C9A/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)') no-repeat center center;
-            background-size: cover;
-            opacity: 0.5;
-            animation: glow 10s infinite alternate;
-        }
-        @keyframes glow {
-            0% {
-                opacity: 0.5;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-    </style>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Криптовалютные опросы</title>
 </head>
 <body>
-    <div class="decor"></div>
-    <h1>Welcome to the Cyberpunk Style Website</h1>
-    <p>This website is designed with cyberpunk aesthetic elements.</p>
+
+<h1>Пройдите наш опрос про криптовалюты:</h1>
+
+<p>Какую криптовалюту вы предпочитаете?</p>
+<button onclick="vote('bitcoin')">Bitcoin</button>
+<button onclick="vote('ethereum')">Ethereum</button>
+<button onclick="vote('ripple')">Ripple</button>
+
+<p>Сколько раз в неделю вы следите за курсами криптовалют?</p>
+<button onclick="vote('daily')">Ежедневно</button>
+<button onclick="vote('weekly')">Раз в неделю</button>
+<button onclick="vote('monthly')">Раз в месяц</button>
+
+<p>Как долго вы уже занимаетесь инвестированием в криптовалюты?</p>
+<button onclick="vote('less1year')">Менее года</button>
+<button onclick="vote('1-3years')">1-3 года</button>
+<button onclick="vote('more3years')">Более 3 лет</button>
+
+<p>Спасибо за участие в опросе!</p>
+
+<script>
+    function vote(choice) {
+        console.log('Вы проголосовали за: ' + choice);
+        // Добавьте здесь код для отправки результатов голосования на сервер или сохранения их локально
+    }
+</script>
+
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
