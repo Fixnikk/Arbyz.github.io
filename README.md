@@ -8,7 +8,7 @@ r# Arbyz.github.io
   <meta charset="utf-8"/>
   <title>Арбуз</title>
     <style>
-      <img src="https://avatars.mds.yandex.net/i?id=901b9021a0b2d3493aeadebe6d4bf823_l-5318189-images-thumbs&n=13">
+      <img src="https://avatars.mds.yandex.net/i?id=0c0d0670048886d90b62033a555ab987a219127d-9197564-images-thumbs&n=13](https://c4.wallpaperflare.com/wallpaper/656/975/618/cyberpunk-neon-futuristic-science-fiction-neon-lights-hd-wallpaper-preview.jpg">
     </style>
 
 <h1>Добро пожаловать на тест по криптовалютам!</h1>
