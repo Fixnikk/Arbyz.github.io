@@ -9,35 +9,6 @@ r# Arbyz.github.io
   <title>Арбуз</title>
     <style>
       <img src="https://avatars.mds.yandex.net/i?id=901b9021a0b2d3493aeadebe6d4bf823_l-5318189-images-thumbs&n=13">
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        .question {
-            background: #fff;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            padding: 15px;
-            margin-bottom: 20px;
-        }
-        .question h2 {
-            font-size: 18px;
-        }
-        .button {
-            display: inline-block;
-            background-color: #4CAF50;
-            color: white;
-            padding: 10px 20px;
-            margin: 5px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-        .button:hover {
-            background-color: #45a049;
-        }
     </style>
 
 <h1>Добро пожаловать на тест по криптовалютам!</h1>
