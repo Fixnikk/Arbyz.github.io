@@ -8,6 +8,7 @@ r# Arbyz.github.io
   <meta charset="utf-8"/>
   <title>Арбуз</title>
     <style>
+      <img src="https://avatars.mds.yandex.net/i?id=901b9021a0b2d3493aeadebe6d4bf823_l-5318189-images-thumbs&n=13">
         body {
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
