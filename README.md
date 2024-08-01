@@ -1,4 +1,4 @@
-# Arbyz.github.io
+r# Arbyz.github.io
 <!DOCTYPE HTML>
 <html lang="ru" content="width=device-width, initial-scale=1.0" >>
   <head>
@@ -41,7 +41,7 @@
 
 <h1>Добро пожаловать на тест по криптовалютам!</h1>
 
-< p>Вопрос 1: Что такое Биткойн?< /p>
+<p>Вопрос 1: Что такое Биткойн?</p>
 <button onclick="incorrect()">Цифровая монета</button>
 <button onclick="correct()">Криптовалюта</button>
 <button onclick="incorrect()">Торговая платформа</button>
