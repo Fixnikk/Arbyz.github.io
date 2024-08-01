@@ -74,8 +74,8 @@ r# Arbyz.github.io
 
 <p>Вопрос 7: Каким образом добываеться некоторая криптотвалюта?</p>
 <button onclick="incorrect()">Blockchain</button>
-<button onclick="correct()">Криптография</button>
-<button onclick="incorrect()">Майнинг</button>
+<button onclick="correct()">Майнинг</button>
+<button onclick="incorrect()">криптография</button>
 
 <script>
 function correct() {
