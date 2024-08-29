@@ -1,17 +1,45 @@
 r# Arbyz.github.io
 <!DOCTYPE HTML>
-<html lang="ru" content="width=device-width, initial-scale=1.0" >>
-  <head>
+    <head>
+        <link rei="stylesheet" href="style.css">
   <!-- Подключаемые файлы, метатеги, название страницы -->
 
   <!-- Кодировка страницы-->
   <meta charset="utf-8"/>
   <title>Арбуз</title>
     <style>
-      <img src="https://avatars.mds.yandex.net/i?id=0c0d0670048886d90b62033a555ab987a219127d-9197564-images-thumbs&n=13](https://c4.wallpaperflare.com/wallpaper/656/975/618/cyberpunk-neon-futuristic-science-fiction-neon-lights-hd-wallpaper-preview.jpg">
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .question {
+            background: #fff;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        .question h2 {
+            font-size: 18px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            margin: 5px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: #45a049;
+        }
     </style>
-
-<h1>Добро пожаловать на тест по криптовалютам!</h1>
+<fieldset>
+<h2>Добро пожаловать на тест по криптовалютам!</h2>
 
 <p>Вопрос 1: Что такое Биткойн?</p>
 <button onclick="incorrect()">Цифровая монета</button>
@@ -46,9 +74,10 @@ r# Arbyz.github.io
 
 <p>Вопрос 7: Каким образом добываеться некоторая криптотвалюта?</p>
 <button onclick="incorrect()">Blockchain</button>
-<button onclick="correct()">Майнинг</button>
-<button onclick="incorrect()">криптография</button>
-
+<button onclick="correct()">Криптография</button>
+<button onclick="incorrect()">Майнинг</button>
+    </fieldset>
+<a href="https://t.me/arbyzfrog">Telegram</a>
 <script>
 function correct() {
   alert('Верно! Поздравляем!');
