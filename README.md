@@ -50,6 +50,7 @@ r# Arbyz.github.io
 <button onclick="incorrect()">криптография</button>
 </fieldset>
 <a href="https://t.me/arbyzfrog">Telegram</a>
+<br>
 <a href="https://youtube.com/@fixnik?si=yZ6FFkVijMRZ7x8W">YouTube</a>
 <script>
 function correct() {
