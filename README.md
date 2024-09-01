@@ -61,7 +61,6 @@ r# Arbyz.github.io
 function correct() {
   alert('Верно! Поздравляем!');
 }
-
 function incorrect() {
   alert('Неверно. Попробуйте еще раз.');
 }
