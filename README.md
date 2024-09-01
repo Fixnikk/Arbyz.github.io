@@ -7,14 +7,7 @@ r# Arbyz.github.io
   <!-- Кодировка страницы-->
   <meta charset="utf-8"/>
   <title>Арбуз</title>
-    <link rel="stylesheet" href="styles.css">
-  <div class="container">
-        <h1 class="title">Добро пожаловать в Киберпанк</h1>
-        <button class="neon-button" id="neonButton">Нажми на меня</button>
-        <div class="background"></div>
-    </div>
-    <script src="script.js">
-    </script>
+ 
 <fieldset>
 <h1>Добро пожаловать на тест по криптовалютам!</h1>
 
