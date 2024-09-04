@@ -8,7 +8,7 @@
 <meta charset="utf-8"/>
 <title>Арбуз</title>
 <h4>Укажите свои данные для дальнейшей связи</h4>
-<input type="email" placeholder="Введите свою электронную почту">
+<input type="email" placeholder="Введите свою электронную почту" size=200px>
 <fieldset>
 <h1>Добро пожаловать на тест по криптовалютам!</h1>
 
