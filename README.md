@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="ru" content="width=device-width, initial-scale=1.0" >>
+<html lang="ru" content="width=device-width, initial-scale=1.0" >
   <head>
   <!-- Подключаемые файлы, метатеги, название страницы -->
 
