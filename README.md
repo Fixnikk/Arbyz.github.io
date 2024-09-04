@@ -7,7 +7,8 @@ r# Arbyz.github.io
   <!-- Кодировка страницы-->
   <meta charset="utf-8"/>
   <title>Арбуз</title>
- 
+</form>
+<input type="email" placeholder="Введите свою электронную почту" >
 <fieldset>
 <h1>Добро пожаловать на тест по криптовалютам!</h1>
 
@@ -71,4 +72,4 @@ function incorrect() {
   <!-- Подвал сайта-->
   </footer>
 </body>
-</html>
+</html> 
