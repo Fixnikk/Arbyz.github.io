@@ -3,7 +3,7 @@
 <html lang="ru" content="width=device-width, initial-scale=1.0" >
   <head>
 <link rel="stylesheet" href="https://github.com/your-username/repository-name/blob/main/style.css">
- <script src="https://github.com/your-username/repository-name/blob/main/style1.js"></script>
+ <script src="script.js"></script>
 
   <div class="container">
         <h1 class="title">Добро пожаловать в Киберпанк</h1>
