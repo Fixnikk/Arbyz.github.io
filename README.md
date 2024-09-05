@@ -2,11 +2,20 @@
 <!DOCTYPE html>
 <html lang="ru" content="width=device-width, initial-scale=1.0" >
   <head>
-  <!-- Подключаемые файлы, метатеги, название страницы -->
 
-  <!-- Кодировка страницы-->
+
+  <div class="container">
+        <h1 class="title">Добро пожаловать в Киберпанк</h1>
+        <button class="neon-button" id="neonButton">Нажми на меня</button>
+        <div class="background"></div>
+    </div>
+    <script src="script.js"></script>
+
+  <meta charset="utf-8"/>
 <meta charset="utf-8"/>
 <title>Арбуз</title>
+<link href="/Users/79600/PycharmProjects/pythonProject/style.css" rel="stylesheet">
+<link href="/Users/79600/PycharmProjects/pythonProject/style1.js" rel="stylesheet">
 <h4>Укажите свои данные для дальнейшей связи</h4>
 <input type="email" placeholder="Введите свою электронную почту" size=50px>
 <fieldset>
