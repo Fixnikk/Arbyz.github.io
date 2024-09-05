@@ -2,6 +2,16 @@
 <!DOCTYPE html>
 <html lang="ru" content="width=device-width, initial-scale=1.0" >
   <head>
+<link rel="stylesheet" href="https://github.com/your-username/repository-name/blob/main/style.css">
+ <script src="https://github.com/your-username/repository-name/blob/main/style1.js"></script>
+
+  <div class="container">
+        <h1 class="title">Добро пожаловать в Киберпанк</h1>
+        <button class="neon-button" id="neonButton">Нажми на меня</button>
+        <div class="background"></div>
+    </div>
+   
+
 <meta charset="utf-8"/>
 <title>Арбуз</title>
 <h4>Укажите свои данные для дальнейшей связи</h4>
