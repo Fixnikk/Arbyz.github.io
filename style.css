@@ -44,7 +44,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('https://avatars.mds.yandex.net/i?id=85190c5ce1b8d4f35519eab60b08a741_l-10914274-images-thumbs&n=13');
+    background-image: <img src="https://i.pinimg.com/originals/84/f1/33/84f1338748aad4087fdc1b912d8125b8.jpg" alt="киберпанк";
     background-size: cover;
     filter: blur(8px);
     z-index: 0;
