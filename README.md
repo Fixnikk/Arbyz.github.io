@@ -6,9 +6,7 @@
  <script src="https://github.com/Fixnikk/Arbyz.github.io/blob/main/css-js/script.js"> </script>
 
   <div class="container">
-        <h1 class="title">Добро пожаловать в Киберпанк</h1>
         <button class="neon-button" id="neonButton">Нажми на меня</button>
-        <div class="background"></div>
     </div>
    
 
@@ -16,48 +14,61 @@
 <title>Арбуз</title>
 <h4>Укажите свои данные для дальнейшей связи</h4>
 <input type="email" placeholder="Введите свою электронную почту" size=50px>
-</form>
 <h1>Добро пожаловать на тест по криптовалютам!</h1>
 <fieldset>
 <p>Вопрос 1: Что такое Биткойн?</p>
 <button onclick="incorrect()">Цифровая монета</button>
+  <br>
 <button onclick="correct()">Криптовалюта</button>
+  <br>
 <button onclick="incorrect()">Торговая платформа</button>
 </fieldset>
 <fieldset>
 <p>Вопрос 2: кто создал биткоин?</p>
 <button onclick="incorrect()">Илон маск</button>
+  <br>
 <button onclick="correct()">Сатоши Накамото</button>
+  <br>
 <button onclick="incorrect()">Виталик Бутерин </button>
 </fieldset>
 <fieldset>
 <p>Вопрос 3: Что такое блокчейн?</p>
 <button onclick="correct()">Технология хранения данных</button>
+  <br>
 <button onclick="incorrect()">Валюта</button>
+  <br>
 <button onclick="incorrect()">Программное обеспечение</button>
 </fieldset>
 <fieldset>
 <p>Вопрос 4: Какая технология обеспечивает анонимность транзакций в криптовалютах?</p>
 <button onclick="incorrect()">Blockchain</button>
+  <br>
 <button onclick="correct()">Криптография</button>
+  <br>
 <button onclick="incorrect()">Майнинг</button>
 </fieldset>
 <fieldset>
    <p>Вопрос 5: Что такое альткойн?</p>
 <button onclick="correct()">Криптовалюта, которая была созданна в качестве обхода ограничений биткоина</button>
+  <br>
 <button onclick="incorrect()">Монета биткойн</button>
+  <br>
 <button onclick="incorrect()">Фиатная валюта</button>
 </fieldset>
 <fieldset>
 <p>Вопрос 6: Что такое ефир? </p>
 <button onclick="correct()">Криптовалюта сети Ethereum</button>
+  <br>
 <button onclick="incorrect()">Программное обеспечение для обмена</button>
+  <br>
 <button onclick="incorrect()">Фиатная валюта</button>
 </fieldset>
 <fieldset>
 <p>Вопрос 7: Каким образом добываеться некоторая криптотвалюта?</p>
 <button onclick="incorrect()">Blockchain</button>
+  <br>
 <button onclick="correct()">Майнинг</button>
+  <br>
 <button onclick="incorrect()">криптография</button>
 </fieldset>
 <a href="https://t.me/arbyzfrog">Telegram</a>
