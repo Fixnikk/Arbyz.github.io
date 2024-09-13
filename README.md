@@ -5,10 +5,20 @@
 <link rel="stylesheet" href="https://github.com/Fixnikk/Arbyz.github.io/blob/main/style.css">
  <script src="https://github.com/Fixnikk/Arbyz.github.io/blob/main/css-js/script.js"> </script>
 
-  <div class="container">
-        <button class="neon-button" id="neonButton">Нажми на меня</button>
-    </div>
-   
+  <div <button class="neon-button" id="neonButton" style="background-color: black; color: green; border: 2px solid green; text-decoration: none; padding: 10px 20px; transition: background-color 0.3s, color 0.3s;">Нажми на меня</button>
+
+  </div>
+   <style>
+    a:hover, button:hover {
+        background-color: green;
+        color: black;
+    }
+
+  html {
+        scroll-behavior: smooth;
+    }
+</style>
+
 
 <meta charset="utf-8"/>
 <title>Арбуз</title>
