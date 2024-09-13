@@ -16,6 +16,7 @@
 <title>Арбуз</title>
 <h4>Укажите свои данные для дальнейшей связи</h4>
 <input type="email" placeholder="Введите свою электронную почту" size=50px>
+</form>
 <fieldset>
 <h1>Добро пожаловать на тест по криптовалютам!</h1>
 
@@ -80,3 +81,16 @@ function incorrect() {
   </footer>
 </body>
 </html> 
+<?php
+$num = 0;
+if (isset($_POST['but'])){
+  if (isset($_COOKIE['count'])){
+    $num = $_COOKIE['count'] + 1;
+  }
+  setcookie('count', $num);
+}
+echo 'Вы нажали на кнопку '.$num. ' раз';
+
+?>
+<form action="registration.php" method="post">
+    <input type="submit" name="but" value="<?php echo $num;?>">
