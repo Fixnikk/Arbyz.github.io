@@ -6,7 +6,7 @@
  <script src="https://github.com/Fixnikk/Arbyz.github.io/blob/main/css-js/script.js"> </script>
 <style>
   body {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 </style>
 <style>  <div 
