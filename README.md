@@ -100,6 +100,7 @@ function incorrect() {
 </script>
 </head>
 <body>
+  <font color="green"</font>
   <!-- Тело сайта, отвечает за вывод на страницу-->
   <header>
   <!-- Шапка сайта-->
