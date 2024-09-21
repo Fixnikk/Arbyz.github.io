@@ -111,7 +111,6 @@ function incorrect() {
   <footer>
   <!-- Подвал сайта-->
   </footer>
-</body>
 </html> 
 
 
