@@ -30,7 +30,7 @@
 <title>Арбуз</title>
 <h4>Укажите свои данные для дальнейшей связи</h4>
 <input type="email" placeholder="Введите свою электронную почту" size=35px>
-<h1>Добро пожаловать на тест по криптовалютам!<font color="#green" </font></h1>
+<h1><font color="#White">Добро пожаловать на тест по криптовалютам!</font></h1>
 <fieldset>
 <p>Вопрос 1: Что такое Биткойн?</p>
 <button onclick="incorrect()">Цифровая монета</button>
@@ -99,7 +99,8 @@ function incorrect() {
 }
 </script>
 </head>
-<body>
+<body style = "color:green"></body>
+  <style></style>
   <!-- Тело сайта, отвечает за вывод на страницу-->
   <header>
   <!-- Шапка сайта-->
